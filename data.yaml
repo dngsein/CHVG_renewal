@@ -1,0 +1,6 @@
+train: CHVG-lengkap/train
+val: CHVG-lengkap/valid
+test: CHVG-lengkap/test
+
+nc: 8
+names: ['blue-helm', 'glass', 'head', 'person', 'red-helm', 'vest-helm', 'white-helm', 'yellow-helm']
